@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>This is the github web-application</h2>
+<h2>this is the we page</h2>
 </body>
 </html>
